@@ -8,3 +8,5 @@ learners. The text is to be classed by its difficulty on the Common European Fra
 be assigned one of the six CEFR levels, i.e. A1, A2, B1, B2, C1 or C2.
 
 A variety of methods were tested for this project.
+
+**More Information Coming Soon**
